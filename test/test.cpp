@@ -10,7 +10,7 @@
 
 int main()
 {
-	std::cout << "blaj!" << std::endl;
+	std::cout << "blaj! test!" << std::endl;
 	return 0;
 }
 
